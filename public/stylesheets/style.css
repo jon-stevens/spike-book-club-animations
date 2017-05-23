@@ -7,7 +7,7 @@ body {
 .wrapper {
   font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
   background: url('../images/bg.png');
-  background-size: cover;
+  background-size: 100%;
   width:100vw;
   height:1931px;
 }
@@ -81,14 +81,14 @@ a {
   background: url('../images/right7.png');
   background-repeat: no-repeat;
   background-size: 100%;
-  animation: fadeIn 12s;
-  animation-delay: 6s;
+  animation: fadeIn 5s;
+  animation-delay: 0s;
 }
 .left div, .right div {
   width: 50%;
   height: 100vh;
   position: absolute;
-  top: 120px;
+  top: 74px;
   left: 0;
 }
 
@@ -135,8 +135,8 @@ a {
   background: url('../images/left7.png');
   background-repeat: no-repeat;
   background-size: 100%;
-  animation: fadeIn 9s;
-  animation-delay: 3s;
+  animation: fadeIn 5s;
+  animation-delay: 0s;
 }
 .right div {
   width: 100%;
