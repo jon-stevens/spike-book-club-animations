@@ -6,7 +6,7 @@ body {
 
 .wrapper {
   font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
-  background: url('../images/bg.png');
+  background: url('../images/bg.jpg');
   background-size: 100%;
   width:100vw;
   height:1931px;
@@ -41,49 +41,43 @@ a {
 
 .left {
   .one {
-    background: url('../images/left1.png');
+    background: url('../images/01_LEFTSIDE.png');
     background-repeat: no-repeat;background-size: 100%;
-    animation: fadeIn 9s;
+    animation: fadeIn 6s;
     animation-delay: 1s;
   }
   .two {
-    background: url('../images/left2.png');
+    background: url('../images/02_LEFTSIDE.png');
     background-repeat: no-repeat;background-size: 100%;
-    animation: fadeIn 16s;
+    animation: fadeIn 11s;
     animation-delay: 4s;
   }
   .three {
-    background: url('../images/left3.png');
+    background: url('../images/03_LEFTSIDE.png');
     background-repeat: no-repeat;background-size: 100%;
-    animation: fadeIn 19s;
+    animation: fadeIn 12s;
     animation-delay: 2s;
   }
   .four {
-    background: url('../images/left4.png');
-    background-repeat: no-repeat;background-size: 100%;
-    animation: fadeIn 11s;
-    animation-delay: 5s;
-  }
-  .five {
-    background: url('../images/left5.png');
+    background: url('../images/04_LEFTSIDE.png');
     background-repeat: no-repeat;background-size: 100%;
     animation: fadeIn 5s;
     animation-delay: 2s;
   }
+  .five {
+    background: url('../images/05_LEFTSIDE.png');
+    background-repeat: no-repeat;background-size: 100%;
+    animation: fadeIn 4s;
+    animation-delay: 1s;
+  }
   .six{
-    background: url('../images/left6.png');
+    background: url('../images/06_LEFTSIDE.png');
     background-repeat: no-repeat;
     background-size: 100%;
-    animation: fadeIn 12s;
-    animation-delay: 6s;
+    animation: fadeIn 7s;
+    animation-delay: 3s;
   }
-  .seven {
-    background: url('../images/right7.png');
-    background-repeat: no-repeat;
-    background-size: 100%;
-    animation: fadeIn 5s;
-    animation-delay: 0s;
-  }
+
   div {
     -webkit-animation-fill-mode: forwards!important;
   }
@@ -94,60 +88,55 @@ a {
   width: 50%;
   height: 100vh;
   position: absolute;
-  top: 74px;
+  top: 0;
   left: 0;
 }
 
+
+
 .right {
   .one {
-    background: url("../images/right1.png");
+    background: url("../images/01_RIGHTSIDE.png");
     background-repeat: no-repeat;
     background-size: 100%;
-    animation: fadeIn 12s;
-    animation-delay: 5s; }
-
-  .two {
-    background: url("../images/right2.png");
-    background-repeat: no-repeat;
-    background-size: 100%;
-    animation: fadeIn 18s;
+    animation: fadeIn 6s;
     animation-delay: 2s; }
 
-  .three {
-    background: url("../images/right3.png");
+  .two {
+    background: url("../images/02_RIGHTSIDE.png");
     background-repeat: no-repeat;
     background-size: 100%;
-    animation: fadeIn 10s;
+    animation: fadeIn 4s;
+    animation-delay: 3s; }
+
+  .three {
+    background: url("../images/03_RIGHTSIDE.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    animation: fadeIn 7s;
     animation-delay: 4s; }
 
   .four {
-    background: url("../images/right4.png");
+    background: url("../images/04_RIGHTSIDE.png");
     background-repeat: no-repeat;
     background-size: 100%;
     animation: fadeIn 4s;
     animation-delay: 5s; }
 
   .five {
-    background: url("../images/right5.png");
+    background: url("../images/05_RIGHTSIDE.png");
     background-repeat: no-repeat;
     background-size: 100%;
     animation: fadeIn 7s;
     animation-delay: 3s; }
 
   .six {
-    background: url("../images/right6.png");
+    background: url("../images/06_RIGHTSIDE.png");
     background-repeat: no-repeat;
     background-size: 100%;
     animation: fadeIn 9s;
     animation-delay: 3s; }
 
-  .seven {
-    background: url("../images/left7.png");
-    background-repeat: no-repeat;
-    background-size: 100%;
-    animation: fadeIn 5s;
-    animation-delay: 0s;
-  }
 
   div {
     width: 100%;
