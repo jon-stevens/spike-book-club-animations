@@ -42,14 +42,14 @@ a {
   background: url("../images/02_LEFTSIDE.png");
   background-repeat: no-repeat;
   background-size: 100%;
-  animation: fadeIn 11s;
-  animation-delay: 4s; }
+  animation: fadeIn 6s;
+  animation-delay: 0s; }
 
 .left .three {
   background: url("../images/03_LEFTSIDE.png");
   background-repeat: no-repeat;
   background-size: 100%;
-  animation: fadeIn 12s;
+  animation: fadeIn 8s;
   animation-delay: 2s; }
 
 .left .four {
@@ -57,21 +57,21 @@ a {
   background-repeat: no-repeat;
   background-size: 100%;
   animation: fadeIn 5s;
-  animation-delay: 2s; }
+  animation-delay: 1s; }
 
 .left .five {
   background: url("../images/05_LEFTSIDE.png");
   background-repeat: no-repeat;
   background-size: 100%;
   animation: fadeIn 4s;
-  animation-delay: 1s; }
+  animation-delay: 0s; }
 
 .left .six {
   background: url("../images/06_LEFTSIDE.png");
   background-repeat: no-repeat;
   background-size: 100%;
-  animation: fadeIn 7s;
-  animation-delay: 3s; }
+  animation: fadeIn 4s;
+  animation-delay: 1s; }
 
 .left div {
   -webkit-animation-fill-mode: forwards !important; }
@@ -95,34 +95,34 @@ a {
   background-repeat: no-repeat;
   background-size: 100%;
   animation: fadeIn 4s;
-  animation-delay: 3s; }
+  animation-delay: 1s; }
 
 .right .three {
   background: url("../images/03_RIGHTSIDE.png");
   background-repeat: no-repeat;
   background-size: 100%;
   animation: fadeIn 7s;
-  animation-delay: 4s; }
+  animation-delay: 0s; }
 
 .right .four {
   background: url("../images/04_RIGHTSIDE.png");
   background-repeat: no-repeat;
   background-size: 100%;
   animation: fadeIn 4s;
-  animation-delay: 5s; }
+  animation-delay: 2s; }
 
 .right .five {
   background: url("../images/05_RIGHTSIDE.png");
   background-repeat: no-repeat;
   background-size: 100%;
-  animation: fadeIn 7s;
-  animation-delay: 3s; }
+  animation: fadeIn 5s;
+  animation-delay: 1s; }
 
 .right .six {
   background: url("../images/06_RIGHTSIDE.png");
   background-repeat: no-repeat;
   background-size: 100%;
-  animation: fadeIn 9s;
+  animation: fadeIn 4s;
   animation-delay: 3s; }
 
 .right div {
